@@ -373,3 +373,4 @@ main h3{margin-bottom:8px}
   .logo img{height:38px}
 }
 @media(prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+.site-footer .foot-area{color:var(--gray);margin-bottom:8px;line-height:1.55}
